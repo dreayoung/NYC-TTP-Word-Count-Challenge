@@ -1,1 +1,1 @@
-# NYC-TTP-Word-Count-Challenge-
+# 2. Word Count Challenge
